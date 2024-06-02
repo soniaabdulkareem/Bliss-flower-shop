@@ -403,6 +403,10 @@ header .navbar .navbar__header .navbar__btn .bar1,.bar2,.bar3{
     padding: 6px;
     width: 30%;
 }
+.info-img .more .more-info button a{
+    color: black;
+    font-size: 12px;
+}
 
 
 
@@ -454,7 +458,7 @@ header .navbar .navbar__header .navbar__btn .bar1,.bar2,.bar3{
 }
 .aside p{
     position: relative;
-    font-size: 10px;
+    font-size: 7px;
     line-height: 1.5;
     margin-bottom: 20px;
 }
@@ -534,9 +538,11 @@ form #message-box{
     border-radius: 25px;
     padding: 8px;
     margin-bottom: 30px;
+    width: 40%;
 }
 .contact button a{
     color: #ffffff;
+    font-size: 12px;
 
 }
 
@@ -545,6 +551,7 @@ form #message-box{
 footer{
     background-color: #004437;
     color: #ffffff;
+    padding-bottom: 20px;
 }
 .foot-nav{
     display: flex;
