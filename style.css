@@ -536,9 +536,9 @@ form #message-box{
 .contact button{
     background-color: #004437;
     border-radius: 25px;
-    padding: 8px;
+    padding: 8px 20px;
     margin-bottom: 30px;
-    width: 20%;
+    
 }
 .contact button a{
     color: #ffffff;

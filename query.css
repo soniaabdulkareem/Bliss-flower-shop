@@ -2,9 +2,6 @@
     .aside p{
         font-size: 10px;
     }
-    .contact button{
-        width: 10%;
-    }
 }
 
 @media screen and (min-width:768px) {
